@@ -9,3 +9,5 @@ kkkkkkk ta ai meu rei
 joga muito
 
 lembra de trocar o codigo hein 
+
+ tira o .sh
